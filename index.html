@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles/geral.css">
     <link rel="stylesheet" href="styles/wrapper.css">
+    <link rel="stylesheet" href="styles/displaydices.css">
     <script defer src="script.js"></script>
     <title>Dado Online</title>
 </head>
@@ -15,8 +16,14 @@
                 <label for="dataNumber">Numero de Dados:</label>
             <div class="input">
                 <input type="number" id="dataNumber"  value="0">
-                <button id="btn"><span>GIRAR </span> </button>
+                <button id="btn" onclick="rolldice()" ><span>GIRAR</span></button>
             </div>
+        </div>
+
+        <div class="display-dices">
+        </div>
+
+        <div class="display-result">
         </div>
       </div>
 </body>
