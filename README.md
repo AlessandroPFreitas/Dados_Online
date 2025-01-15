@@ -10,7 +10,7 @@ Utilizando JavaScript para a parte interativa ,CSS e Bootstrap para a responsivi
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -36,7 +36,7 @@ O DadoOnline é um site interativo que permite aos usuários gerar números alea
 - Criar um layout responsivo e intuitivo.
 - Compartilhar meu progresso com a comunidade.
 
-- [Acesse o projeto finalizado, online](https://alessandropfreitas.github.io/Dados_Online/)
+#### **[Acesse o projeto finalizado, online](https://alessandropfreitas.github.io/Dados_Online/)**
 
 ## 🔖 Layout
 
