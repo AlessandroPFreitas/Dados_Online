@@ -9,6 +9,7 @@
 body {
   display: flex;
   height: 100vh;
+  position: relative;
 }
 
 body::after {
