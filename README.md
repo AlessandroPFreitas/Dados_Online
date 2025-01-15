@@ -16,12 +16,13 @@ Utilizando JavaScript para a parte interativa ,CSS e Bootstrap para a responsivi
 <br>
 
 <p align="center">
-  <img alt="projeto DadoOnline" src="dadoonlineIMG.png" width="100%">
+  <img alt="projeto DadoOnline" src="https://github.com/user-attachments/assets/cea1531a-583c-4593-8e21-eb3192548c9f" width="100%">
 </p>
+
 
 ## 🚀 Tecnologias
 
-O DadoOnline é um site interativo que permite aos usuários gerar números aleatórios simulando o lançamento de dados. Ele foi desenvolvido com:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
@@ -30,9 +31,12 @@ O DadoOnline é um site interativo que permite aos usuários gerar números alea
 
 ## 💻 Projeto
 
-- Nesse projeto desenvolvi um site
+O DadoOnline é um site interativo que permite aos usuários gerar números aleatórios simulando o lançamento de dados. Ele foi desenvolvido para:
+- Melhorar meu entendimento em JavaScript e Bootstrap.
+- Criar um layout responsivo e intuitivo.
+- Compartilhar meu progresso com a comunidade.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://alessandropfreitas.github.io/Dados_Online/)
 
 ## 🔖 Layout
 
